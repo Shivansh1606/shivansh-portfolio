@@ -153,7 +153,7 @@ function App() {
       description: "Modern food ordering platform with intuitive design and seamless user experience. Features real-time order tracking and payment integration.",
       tech: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/Shivansh1606?tab=repositories",
-      live: "https://drblake.netlify.app/",
+      live: "https://shivanshinfo.netlify.app/",
       gradient: "from-orange-500 to-red-600"
     },
     {
@@ -161,7 +161,7 @@ function App() {
       description: "Comprehensive data analysis project providing insights into sales patterns and market trends. Interactive dashboards with predictive analytics.",
       tech: ["Python", "Pandas", "Matplotlib", "Seaborn", "Jupyter Notebook"],
       github: "https://github.com/Shivansh1606?tab=repositories",
-      live: "https://drblake.netlify.app/",
+      live: "https://shivanshinfo.netlify.app/",
       gradient: "from-purple-500 to-pink-600"
     },
     {
@@ -177,7 +177,7 @@ function App() {
       description: "Advanced machine learning project for predicting future sales trends. Utilizes multiple algorithms to provide accurate business forecasting.",
       tech: ["Python", "Scikit-learn", "TensorFlow", "Plotly", "Streamlit"],
       github: "https://github.com/Shivansh1606?tab=repositories",
-      live: "https://drblake.netlify.app/",
+      live: "https://shivanshinfo.netlify.app/",
       gradient: "from-teal-500 to-green-600"
     }
   ];
