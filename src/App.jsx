@@ -503,7 +503,7 @@ function App() {
             <div className="space-y-6 animate-fade-in-delay">
               <div className="prose prose-lg dark:prose-invert">
                 <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-                  I'm <span className="font-semibold text-blue-600 dark:text-blue-400">Shivansh</span>, a passionate and dedicated fresh graduate with a Master's in Computer Applications (MCA) from IMSEC, Ghaziabad, achieving a CGPA of 7.78. As a fresher in the tech industry, I bring enthusiasm, modern skills, and a strong foundation in both web development and data analysis.
+                  I'm <span className="font-semibold text-blue-600 dark:text-blue-400">Shivansh</span>, a passionate and dedicated fresh postgraduate with a Master's in Computer Applications (MCA) from IMSEC, Ghaziabad, achieving a CGPA of 7.78. As a fresher in the tech industry, I bring enthusiasm, modern skills, and a strong foundation in both web development and data analysis.
                 </p>
                 <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
                   My expertise spans across <span className="font-semibold text-purple-600 dark:text-purple-400">full-stack web development</span> with proficiency in React.js, Node.js, and modern JavaScript frameworks. I'm also skilled in <span className="font-semibold text-teal-600 dark:text-teal-400">Java development</span> and have substantial knowledge of data analysis tools and techniques.
