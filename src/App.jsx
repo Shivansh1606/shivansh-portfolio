@@ -149,11 +149,11 @@ function App() {
       gradient: "from-green-500 to-teal-600"
     },
     {
-      title: "Omni-Food",
+      title: "Crafo Food",
       description: "Modern food ordering platform with intuitive design and seamless user experience. Features real-time order tracking and payment integration.",
       tech: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/Shivansh1606?tab=repositories",
-      live: "https://shivanshinfo.netlify.app/",
+      live: "https://crafofood.netlify.app/",
       gradient: "from-orange-500 to-red-600"
     },
     {
@@ -187,7 +187,7 @@ function App() {
       title: "Programming Languages",
       icon: <Code className="w-6 h-6" />,
       skills: [
-        { name: "JavaScript", level: 85, color: "bg-yellow-500" },
+        { name: "JavaScript", level: 78, color: "bg-yellow-500" },
         { name: "Java", level: 80, color: "bg-red-500" },
         { name: "C++", level: 75, color: "bg-blue-500" },
         { name: "Python", level: 70, color: "bg-green-500" }
@@ -198,9 +198,9 @@ function App() {
       icon: <Database className="w-6 h-6" />,
       skills: [
         { name: "React.js", level: 85, color: "bg-blue-400" },
-        { name: "Node.js", level: 80, color: "bg-green-600" },
+        { name: "Node.js", level: 80, color: "bg-red-500" },
         { name: "Express.js", level: 75, color: "bg-gray-600" },
-        { name: "Tailwind CSS", level: 90, color: "bg-teal-500" }
+        { name: "Tailwind CSS", level: 80, color: "bg-teal-500" }
       ]
     },
     {
@@ -217,7 +217,7 @@ function App() {
       title: "Tools & Platforms",
       icon: <Wrench className="w-6 h-6" />,
       skills: [
-        { name: "Git & GitHub", level: 85, color: "bg-gray-800" },
+        { name: "Git & GitHub", level: 85, color: "bg-orange-500" },
         { name: "VS Code", level: 90, color: "bg-blue-500" },
         { name: "CURSOR", level: 80, color: "bg-indigo-500" },
         { name: "MongoDB", level: 75, color: "bg-green-500" }
