@@ -134,7 +134,7 @@ function App() {
   const projects = [
     {
       title: "GrowingUpp",
-      description: "A modern EdTech company website built for GrowingUpp to showcase their brand, services, and student‑focused learning solutions. The platform includes marketing pages, course highlights, and clear CTAs for students, parents, and institutions, all wrapped in a clean, responsive UI.",
+      description: "A modern Tech company website built for GrowingUpp to showcase their brand, services, and student‑focused learning solutions. The platform includes marketing pages, course highlights, and clear CTAs for students, parents, and institutions, all wrapped in a clean, responsive UI.",
       tech: ["HTML", "JavaScript", "React", "Tailwind CSS", "PostgreSQL", "Django REST Framework"],
       github: "https://github.com/Shivansh1606?tab=repositories",
       live: "https://growingupp.vercel.app/",
@@ -526,18 +526,60 @@ function App() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-6 animate-fade-in-delay">
               <div className="prose prose-lg dark:prose-invert">
-                <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-                  I'm <span className="font-semibold text-blue-600 dark:text-blue-400">Shivansh</span>, a passionate and dedicated fresh postgraduate with a Master's in Computer Applications (MCA) from IMSEC, Ghaziabad, achieving a CGPA of 8.13 and with percentage of 77.19%. As a fresher in the tech industry, I bring enthusiasm, modern skills, and a strong foundation in both web development and data analysis.
-                </p>
-                <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-                  My expertise spans across <span className="font-semibold text-purple-600 dark:text-purple-400">full-stack web development</span> with proficiency in React.js, Node.js, and modern JavaScript frameworks. I'm also skilled in <span className="font-semibold text-teal-600 dark:text-teal-400">Java development</span> and have substantial knowledge of data analysis tools and techniques.
-                </p>
-                <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-                  What sets me apart is my expertise in <span className="font-semibold text-indigo-600 dark:text-indigo-400">AI tools and modern development platforms</span> like Bolt AI, Supabase, and Cursor. I leverage these cutting-edge technologies to create innovative solutions and streamline development processes, staying ahead of industry trends and incorporating artificial intelligence into my development workflow.
-                </p>
-                <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-                  I'm excited to contribute to meaningful projects, collaborate with experienced teams, and continue learning while making a positive impact in the tech world through innovative AI-powered solutions.
-                </p>
+               <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
+  I'm <span className="font-semibold text-blue-600 dark:text-blue-400">Shivansh</span>, a
+  full-stack developer with a Master's in Computer Applications (MCA) from IMSEC,
+  Ghaziabad, achieving a CGPA of 8.13 (77.19%). I bring practical industry experience
+  through a 3-month internship and 4-5 months of freelancing, where I've delivered
+  multiple production-ready web applications from concept to deployment.
+</p>
+
+<p className="text-gray-600 dark:text-gray-300 leading-relaxed">
+  During my
+  <span className="font-semibold text-purple-600 dark:text-purple-400">
+    {" "}3-month internship at GrowingUpp{" "}
+  </span>
+  (August 2025 – October 2025), I worked as a Full-Stack Developer building an EdTech
+  platform with React.js, Django, and PostgreSQL. I developed secure RESTful APIs,
+  implemented role-based authentication for 1,000+ users, optimized database queries
+  (reducing execution time by 30%), and integrated payment gateways—achieving a 20%
+  overall performance boost.
+</p>
+
+<p className="text-gray-600 dark:text-gray-300 leading-relaxed">
+  As a
+  <span className="font-semibold text-teal-600 dark:text-teal-400">
+    {" "}freelance developer{" "}
+  </span>
+  over the past 4-5 months, I've built custom web solutions including:
+  <br />• <strong>School Management System</strong> – Complete admin panel with
+  student registration, attendance tracking, and academic management using React,
+  Django, and PostgreSQL
+  <br />• <strong>Aruba E-commerce Platform</strong> – Full CRUD management system
+  with multi-entity data handling, role-based access control (Admin/Manager/User),
+  search/filtering, and responsive mobile-first design
+  <br />• <strong>Advocate Chat Application</strong> – Real-time consultation
+  platform with clean messaging UI built using HTML, CSS, and JavaScript
+</p>
+
+<p className="text-gray-600 dark:text-gray-300 leading-relaxed">
+  My tech stack includes
+  <span className="font-semibold text-indigo-600 dark:text-indigo-400">
+    {" "}React.js, Tailwind CSS, Django, Node.js, PostgreSQL, MySQL{" "}
+  </span>
+  with hands-on experience in Git/GitHub, Vercel/Netlify deployments, API
+  integration, form validation, and modern UI/UX design. I also leverage AI tools
+  like Bolt AI, Supabase, and Cursor to accelerate development and build smarter
+  solutions.
+</p>
+
+<p className="text-gray-600 dark:text-gray-300 leading-relaxed">
+  I'm excited to bring my internship learnings, freelance project experience, and
+  passion for clean code to a growth-oriented team. I'm actively seeking full-stack
+  developer roles where I can contribute to impactful products, collaborate with
+  experienced developers, and continue growing my skills in modern web technologies.
+</p>
+
               </div>
 
               <div className="flex flex-wrap gap-3">
