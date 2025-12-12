@@ -159,7 +159,7 @@ function App() {
 {
       title: "Advocate Chat Consultation App",
       description: "A browser-based advocate consultation app that allows users to start a chat session with a lawyer through a clean and simple interface. Built using vanilla HTML, CSS, and JavaScript with focus on responsive layout and smooth user interaction.",
-      tech: ["Python", "Scikit-learn", "TensorFlow", "Plotly", "Streamlit"],
+      tech: ["HTML", "CCS3", "JavaScript", "WebRTC", "Socket.io"],
       github: "https://github.com/Shivansh1606?tab=repositories",
       live: "https://advocate-chat-app-7mqp.onrender.com/",
       gradient: "from-orange-500 to-red-600"
