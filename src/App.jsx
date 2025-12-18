@@ -165,20 +165,20 @@ function App() {
       gradient: "from-orange-500 to-red-600"
     },    
     {
-      title: "Nishu-Digital",
-      description: "A modern digital marketplace offering templates, SaaS, and scripts. Clean UI, responsive design, and seamless shopping experience",
-      tech: ["HTML", "JavaScript", "React", "Tailwind CSS", "MySQL", "Node.js"],
-      github: "https://github.com/Shivansh1606?tab=repositories",
-      live: "https://nishu-digital-front-end.vercel.app/",
-      gradient: "from-purple-500 to-pink-600"
-    },
-    {
       title: "Dr. Serena Blake - Therapist Website",
       description: "AI-powered therapist website with modern design and user-friendly interface. Currently live and fully functional for therapy consultations.",
       tech: ["HTML", "JavaScript", "TypeScript", "Tailwind CSS", "MongoDB", "Node.js"],
       github: "https://github.com/Shivansh1606",
       live: "https://drblake.netlify.app/",
       gradient: "from-orange-500 to-red-600"
+    },
+    {
+      title: "Digital Agency Platform",
+      description: "A modern digital marketplace offering templates, SaaS, and scripts. Clean UI, responsive design, and seamless shopping experience",
+      tech: ["HTML", "JavaScript", "React", "Tailwind CSS", "MySQL", "Node.js"],
+      github: "https://github.com/Shivansh1606?tab=repositories",
+      live: "https://digital-agncy.netlify.app/",
+      gradient: "from-purple-500 to-pink-600"
     },
     {
       title: "Hawan-Karao",
